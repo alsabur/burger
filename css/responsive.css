@@ -1,0 +1,83 @@
+/*  */
+  
+  @media (max-width: 576px) {
+
+
+    
+    #header .delivery-contact{
+        display: none;
+    }
+
+    nav  .navbar-collapse{
+        text-align: center !important;
+        background-color: #fff;
+        border-radius: 3px;
+        margin-top: 10px;
+        
+        
+    }
+
+    nav .nav-item{
+        margin-left: 0;
+    }
+
+    nav .nav-item a{
+        font-size: 25px;
+    }
+
+
+
+    #banner .banner-content span{
+        font-size: 20px;
+    }
+
+    #banner .banner-content h1{
+        font-size: 70px;
+    }
+
+    #banner .banner-content h2{
+        font-size: 40px;
+    }
+
+    #banner .bur-img img {
+        display: none;
+    }
+
+    #features .section-content{
+        margin-bottom: 30px;
+    }
+    
+
+    #features .section-content .section-text h4{
+        font-size: 18px;
+
+    }
+
+    #features .section-content .section-text h2{
+        font-size: 28px;
+    }
+    
+
+    #footer .footer-wrapper{
+        height: 100vh;
+    }
+
+    #footer{
+        padding: 100px 0;
+        padding-bottom: 12px;
+    }
+
+    #footer .contact-desc{
+        margin-top: 30px;
+    }
+
+    #footer .cs-sec{
+        margin-top: 20px ;
+    }
+
+    #footer .social-icons{
+        text-align: center;
+        margin-top: 20px;
+    }
+  }
+  
