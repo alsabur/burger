@@ -56,6 +56,11 @@
     #features .section-content .section-text h2{
         font-size: 28px;
     }
+
+    #event .main-content p{
+        font-size: 16px;
+        
+    }
     
 
     #footer .footer-wrapper{
