@@ -65,6 +65,7 @@
 
     #footer .footer-wrapper{
         height: 100vh;
+        display: block;
     }
 
     #footer{
