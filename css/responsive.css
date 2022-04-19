@@ -25,7 +25,10 @@
         font-size: 25px;
     }
 
-
+    .owl-dots{
+        position: unset !important;
+        margin-top: 20px;
+    }
 
     #banner .banner-content span{
         font-size: 20px;
@@ -60,6 +63,10 @@
     #event .main-content p{
         font-size: 16px;
         
+    }
+
+    #reserve input{
+        margin-right: 0!important;
     }
     
 
